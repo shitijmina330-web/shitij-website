@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shitij Website</title>
+
+```
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+
+    body {
+        background: #f4f7fb;
+        color: #222;
+    }
+
+    header {
+        background: #111827;
+        color: white;
+        padding: 25px;
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 35px;
+        margin-bottom: 8px;
+    }
+
+    header p {
+        color: #cbd5e1;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 20px;
+    }
+
+    .card {
+        background: white;
+        padding: 30px;
+        border-radius: 18px;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+        text-align: center;
+    }
+
+    .card h2 {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    .card p {
+        font-size: 17px;
+        line-height: 1.6;
+        color: #555;
+    }
+
+    .button {
+        display: inline-block;
+        margin-top: 25px;
+        padding: 13px 25px;
+        background: #2563eb;
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+
+    .button:hover {
+        background: #1d4ed8;
+    }
+
+    footer {
+        text-align: center;
+        padding: 25px;
+        color: #777;
+    }
+</style>
+```
+
+</head>
+
+<body>
+
+<header>
+    <h1>Shitij Website</h1>
+    <p>Welcome to my personal website</p>
+</header>
+
+<div class="container">
+    <div class="card">
+        <h2>Welcome 👋</h2>
+
+```
+    <p>
+        Hello! My name is Shitij.
+        This is my personal website where I can share
+        my information, projects and other things.
+    </p>
+
+    <a class="button" href="https://www.google.com" target="_blank">
+        Visit Google
+    </a>
+</div>
+```
+
+</div>
+
+<footer>
+    © 2026 Shitij Website | All Rights Reserved
+</footer>
+
+</body>
+</html>
